@@ -1,6 +1,6 @@
 MI200N - Projet : Taquin #########################################
 
-Groupe 4 MI-TD04
+Groupe MI-TD04
 
 Vincent BEAUVALLET
 
