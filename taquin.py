@@ -1,6 +1,9 @@
 # noms
 # MITD04
 # JOSEPH Kévin
+# HOIMIAN Levi
+# BEAUVALLET Vincent
+# ADAM Marjorie
 
 # import des librairies
 import tkinter as tk
